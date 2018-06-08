@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">BluetoothTest</string>
+    <string name="bt_connected_text">Connected:</string>
+    <string name="bt_state">NONE</string>
+    <string name="data_received_text">Data Received:</string>
+    <string name="data_received">...</string>
+    <string name="on_off">On/Off</string>
+    <string name="discoverability">Visibility</string>
+    <string name="list_devices">Discover</string>
+    <string name="connect">Connect</string>
+    <string name="send">Send</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="sendTextHint">Put text here to send</string>
+    <string name="bt_selected_text">Selected: </string>
+    <string name="bt_selected">NONE</string>
+    <string name="changeLeftRight">Right</string>
+    <string name="connect2">Connect2</string>
+    <string name="disconnect2">Disconnect2</string>
+</resources>
